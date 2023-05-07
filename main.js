@@ -106,7 +106,7 @@ function onReset() {
    
     while (userList.hasChildNodes()) {
       userList.removeChild(userList.firstChild);
-    }
+    } 
 
 }
 
